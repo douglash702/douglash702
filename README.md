@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @douglash702
+- 👀 I’m interested in Python and Java
+- 🌱 I’m currently learning Java with excellent communication and accelerated learning skills
+- 💞️ I’m looking to collaborate on Java projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/douglas-lima-b744a2280)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I tend to be slow at trivial things but actively sharp at important matters
